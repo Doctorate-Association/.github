@@ -1,4 +1,4 @@
-[Chinese](./README-cn.md)
+[Chinese](./profile/README-cn.md)
 # About Us
 The Doctorate Association (DA) is a politically independent, not-for-profit organisation, with the aim to help our members adjust to life and study abroad. We are a global platform for international doctoral students and scholars to integrate and be involved in the local community.
 
